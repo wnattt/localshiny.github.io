@@ -6,7 +6,7 @@ sort: 1
 
 LocalShiny Web is a platform hosting Shiny apps. If you want to deploy your apps to the cloud, you need to login it first.
 
-## 1.1 create an account
+## 1.1 Create an account
 
 The first time you sign in, LocalShiny prompts you to sign up for a LocalShiny account. 
 
@@ -18,7 +18,7 @@ The first time you sign in, LocalShiny prompts you to sign up for a LocalShiny a
 
 ![02_register](./images/02_register.png){:width="60%"}
 
-## 1.2 login your account
+## 1.2 Login your account
 
 The user needs to log in by clicking 'login' link at the top-right corner of the page. 
 
