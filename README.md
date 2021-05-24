@@ -23,11 +23,11 @@ We are developing an all-in-one solution for statisticians to distribute their R
 | [Python](https://www.python.org/)  | https://www.python.org/     | LocalShiny Web built with Python packages on [Pypi](https://pypi.org/) and [Flask](https://flask.palletsprojects.com/) |
 | [Qt](https://www.qt.io)           | https://www.qt.io           | LocalShiny Software is Qt-based cross-platform stand-alone software |
 
-## About Team
+<!-- ## About Team
 
 LocalShiny is developed and maintained by Dalian University of Technology and Johns Hopkins University.
 
-<img src="./images/dut.png" alt="dut" style="zoom:100%;" />		<img src="./images/jhu.png" alt="jhu" title="JHU" style="zoom:100%;" />
+<img src="./images/dut.png" alt="dut" style="zoom:100%;" />		<img src="./images/jhu.png" alt="jhu" title="JHU" style="zoom:100%;" /> -->
 
 ## Feedback
 
