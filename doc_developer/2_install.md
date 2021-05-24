@@ -4,7 +4,7 @@ sort: 2
 
 # Install LocalShiny R package
 
-LocalShiny is an R package used to deploy Shiny web apps to hosted service, the LocalShiny web. Its source codes are available on [GitHub]( https://github.com/).
+localshiny is an R package used to deploy Shiny web apps to hosted service, the LocalShiny web. Its source codes are available on [GitHub]( https://github.com/).
 
 ## 2.1 Supported os
 
